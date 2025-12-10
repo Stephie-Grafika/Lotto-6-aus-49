@@ -12,7 +12,8 @@ while (lottoZahlen.length < 6) {
     }
 }
 
-alert(lottoZahlen);
+// Zum Testen
+// alert(lottoZahlen);
 
 function zahlTippen() {
     // Startwert für die Übereinstimmungen ist 0
