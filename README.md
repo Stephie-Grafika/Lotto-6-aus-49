@@ -3,3 +3,5 @@
 HTML-Grundgerüst mit IDs für JS und Classen für Bootstrap
 
 JS um 6 Zahlen zwischen 1-49 zu generieren, diese mit der User*innen-Eingabe abzugleichen und einen Hinweis auszugeben
+
+Online bei Netlify unter https://lotto6aus49.netlify.app
